@@ -1,9 +1,7 @@
 [
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0001.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0001.csv"
     },
     "annotations": [
       {
@@ -26,10 +24,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0002.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0002.csv"
     },
     "annotations": [
       {
@@ -52,10 +48,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0003.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0003.csv"
     },
     "annotations": [
       {
@@ -78,10 +72,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0004.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0004.csv"
     },
     "annotations": [
       {
@@ -104,10 +96,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0005.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0005.csv"
     },
     "annotations": [
       {
@@ -130,10 +120,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0006.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0006.csv"
     },
     "annotations": [
       {
@@ -156,10 +144,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0007.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0007.csv"
     },
     "annotations": [
       {
@@ -182,10 +168,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0008.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0008.csv"
     },
     "annotations": [
       {
@@ -208,10 +192,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0009.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0009.csv"
     },
     "annotations": [
       {
@@ -234,10 +216,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0010.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0010.csv"
     },
     "annotations": [
       {
@@ -260,10 +240,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0011.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0011.csv"
     },
     "annotations": [
       {
@@ -286,10 +264,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0012.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0012.csv"
     },
     "annotations": [
       {
@@ -312,10 +288,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0013.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0013.csv"
     },
     "annotations": [
       {
@@ -338,10 +312,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0014.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0014.csv"
     },
     "annotations": [
       {
@@ -364,10 +336,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0015.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0015.csv"
     },
     "annotations": [
       {
@@ -390,10 +360,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0016.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0016.csv"
     },
     "annotations": [
       {
@@ -416,10 +384,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0017.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0017.csv"
     },
     "annotations": [
       {
@@ -442,10 +408,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0018.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0018.csv"
     },
     "annotations": [
       {
@@ -468,10 +432,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0019.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0019.csv"
     },
     "annotations": [
       {
@@ -494,10 +456,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0020.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0020.csv"
     },
     "annotations": [
       {
@@ -520,10 +480,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0021.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0021.csv"
     },
     "annotations": [
       {
@@ -546,10 +504,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0022.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0022.csv"
     },
     "annotations": [
       {
@@ -572,10 +528,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0023.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0023.csv"
     },
     "annotations": [
       {
@@ -598,10 +552,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0024.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0024.csv"
     },
     "annotations": [
       {
@@ -624,10 +576,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0025.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0025.csv"
     },
     "annotations": [
       {
@@ -650,10 +600,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0026.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0026.csv"
     },
     "annotations": [
       {
@@ -676,10 +624,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0027.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0027.csv"
     },
     "annotations": [
       {
@@ -702,10 +648,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0028.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0028.csv"
     },
     "annotations": [
       {
@@ -728,10 +672,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0029.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0029.csv"
     },
     "annotations": [
       {
@@ -754,10 +696,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0030.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0030.csv"
     },
     "annotations": [
       {
@@ -780,10 +720,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0031.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0031.csv"
     },
     "annotations": [
       {
@@ -806,10 +744,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0032.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0032.csv"
     },
     "annotations": [
       {
@@ -832,10 +768,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0033.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0033.csv"
     },
     "annotations": [
       {
@@ -858,10 +792,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0034.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0034.csv"
     },
     "annotations": [
       {
@@ -884,10 +816,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0035.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0035.csv"
     },
     "annotations": [
       {
@@ -910,10 +840,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0036.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0036.csv"
     },
     "annotations": [
       {
@@ -936,10 +864,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0037.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0037.csv"
     },
     "annotations": [
       {
@@ -962,10 +888,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0038.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0038.csv"
     },
     "annotations": [
       {
@@ -988,10 +912,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0039.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0039.csv"
     },
     "annotations": [
       {
@@ -1014,10 +936,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0040.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0040.csv"
     },
     "annotations": [
       {
@@ -1040,10 +960,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0041.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0041.csv"
     },
     "annotations": [
       {
@@ -1066,10 +984,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0042.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0042.csv"
     },
     "annotations": [
       {
@@ -1092,10 +1008,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0043.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0043.csv"
     },
     "annotations": [
       {
@@ -1118,10 +1032,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0044.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0044.csv"
     },
     "annotations": [
       {
@@ -1144,10 +1056,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0045.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0045.csv"
     },
     "annotations": [
       {
@@ -1170,10 +1080,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0046.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0046.csv"
     },
     "annotations": [
       {
@@ -1196,10 +1104,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0047.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0047.csv"
     },
     "annotations": [
       {
@@ -1222,10 +1128,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0048.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0048.csv"
     },
     "annotations": [
       {
@@ -1248,10 +1152,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0049.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0049.csv"
     },
     "annotations": [
       {
@@ -1274,10 +1176,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0050.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0050.csv"
     },
     "annotations": [
       {
@@ -1300,10 +1200,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0051.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0051.csv"
     },
     "annotations": [
       {
@@ -1326,10 +1224,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0052.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0052.csv"
     },
     "annotations": [
       {
@@ -1352,10 +1248,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0053.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0053.csv"
     },
     "annotations": [
       {
@@ -1378,10 +1272,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0054.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0054.csv"
     },
     "annotations": [
       {
@@ -1404,10 +1296,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0055.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0055.csv"
     },
     "annotations": [
       {
@@ -1430,10 +1320,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0056.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0056.csv"
     },
     "annotations": [
       {
@@ -1456,10 +1344,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0057.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0057.csv"
     },
     "annotations": [
       {
@@ -1482,10 +1368,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0058.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0058.csv"
     },
     "annotations": [
       {
@@ -1508,10 +1392,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0059.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0059.csv"
     },
     "annotations": [
       {
@@ -1534,10 +1416,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0060.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0060.csv"
     },
     "annotations": [
       {
@@ -1560,10 +1440,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0061.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0061.csv"
     },
     "annotations": [
       {
@@ -1586,10 +1464,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0062.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0062.csv"
     },
     "annotations": [
       {
@@ -1612,10 +1488,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0063.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0063.csv"
     },
     "annotations": [
       {
@@ -1638,10 +1512,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0064.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0064.csv"
     },
     "annotations": [
       {
@@ -1664,10 +1536,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0065.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0065.csv"
     },
     "annotations": [
       {
@@ -1690,10 +1560,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0066.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0066.csv"
     },
     "annotations": [
       {
@@ -1716,10 +1584,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0067.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0067.csv"
     },
     "annotations": [
       {
@@ -1742,10 +1608,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0068.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0068.csv"
     },
     "annotations": [
       {
@@ -1768,10 +1632,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0069.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0069.csv"
     },
     "annotations": [
       {
@@ -1794,10 +1656,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0070.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0070.csv"
     },
     "annotations": [
       {
@@ -1820,10 +1680,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0071.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0071.csv"
     },
     "annotations": [
       {
@@ -1846,10 +1704,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0072.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0072.csv"
     },
     "annotations": [
       {
@@ -1872,10 +1728,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0073.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0073.csv"
     },
     "annotations": [
       {
@@ -1898,10 +1752,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0074.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0074.csv"
     },
     "annotations": [
       {
@@ -1924,10 +1776,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0075.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0075.csv"
     },
     "annotations": [
       {
@@ -1950,10 +1800,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0076.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0076.csv"
     },
     "annotations": [
       {
@@ -1976,10 +1824,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0077.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0077.csv"
     },
     "annotations": [
       {
@@ -2002,10 +1848,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0078.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0078.csv"
     },
     "annotations": [
       {
@@ -2028,10 +1872,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0079.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0079.csv"
     },
     "annotations": [
       {
@@ -2054,10 +1896,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0080.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0080.csv"
     },
     "annotations": [
       {
@@ -2080,10 +1920,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0081.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0081.csv"
     },
     "annotations": [
       {
@@ -2106,10 +1944,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0082.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0082.csv"
     },
     "annotations": [
       {
@@ -2132,10 +1968,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0083.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0083.csv"
     },
     "annotations": [
       {
@@ -2158,10 +1992,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0084.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0084.csv"
     },
     "annotations": [
       {
@@ -2184,10 +2016,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0085.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0085.csv"
     },
     "annotations": [
       {
@@ -2210,10 +2040,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0086.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0086.csv"
     },
     "annotations": [
       {
@@ -2236,10 +2064,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0087.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0087.csv"
     },
     "annotations": [
       {
@@ -2262,10 +2088,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0088.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0088.csv"
     },
     "annotations": [
       {
@@ -2288,10 +2112,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0089.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0089.csv"
     },
     "annotations": [
       {
@@ -2314,10 +2136,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0090.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0090.csv"
     },
     "annotations": [
       {
@@ -2340,10 +2160,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0091.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0091.csv"
     },
     "annotations": [
       {
@@ -2366,10 +2184,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0092.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0092.csv"
     },
     "annotations": [
       {
@@ -2392,10 +2208,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0093.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0093.csv"
     },
     "annotations": [
       {
@@ -2418,10 +2232,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0094.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0094.csv"
     },
     "annotations": [
       {
@@ -2444,10 +2256,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0095.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0095.csv"
     },
     "annotations": [
       {
@@ -2470,10 +2280,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0096.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0096.csv"
     },
     "annotations": [
       {
@@ -2496,10 +2304,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0097.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0097.csv"
     },
     "annotations": [
       {
@@ -2522,10 +2328,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0098.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0098.csv"
     },
     "annotations": [
       {
@@ -2548,10 +2352,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0099.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0099.csv"
     },
     "annotations": [
       {
@@ -2574,10 +2376,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0100.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0100.csv"
     },
     "annotations": [
       {
@@ -2600,10 +2400,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0101.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0101.csv"
     },
     "annotations": [
       {
@@ -2626,10 +2424,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0102.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0102.csv"
     },
     "annotations": [
       {
@@ -2652,10 +2448,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0103.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0103.csv"
     },
     "annotations": [
       {
@@ -2678,10 +2472,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0104.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0104.csv"
     },
     "annotations": [
       {
@@ -2704,10 +2496,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0105.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0105.csv"
     },
     "annotations": [
       {
@@ -2730,10 +2520,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0106.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0106.csv"
     },
     "annotations": [
       {
@@ -2756,10 +2544,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0107.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0107.csv"
     },
     "annotations": [
       {
@@ -2782,10 +2568,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0108.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0108.csv"
     },
     "annotations": [
       {
@@ -2808,10 +2592,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0109.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0109.csv"
     },
     "annotations": [
       {
@@ -2834,10 +2616,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0110.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0110.csv"
     },
     "annotations": [
       {
@@ -2860,10 +2640,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0111.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0111.csv"
     },
     "annotations": [
       {
@@ -2886,10 +2664,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0112.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0112.csv"
     },
     "annotations": [
       {
@@ -2912,10 +2688,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0113.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0113.csv"
     },
     "annotations": [
       {
@@ -2938,10 +2712,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0114.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0114.csv"
     },
     "annotations": [
       {
@@ -2964,10 +2736,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0115.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0115.csv"
     },
     "annotations": [
       {
@@ -2990,10 +2760,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0116.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0116.csv"
     },
     "annotations": [
       {
@@ -3016,10 +2784,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0117.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0117.csv"
     },
     "annotations": [
       {
@@ -3042,10 +2808,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0118.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0118.csv"
     },
     "annotations": [
       {
@@ -3068,10 +2832,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0119.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0119.csv"
     },
     "annotations": [
       {
@@ -3094,10 +2856,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0120.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0120.csv"
     },
     "annotations": [
       {
@@ -3120,10 +2880,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0121.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0121.csv"
     },
     "annotations": [
       {
@@ -3146,10 +2904,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0122.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0122.csv"
     },
     "annotations": [
       {
@@ -3172,10 +2928,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0123.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0123.csv"
     },
     "annotations": [
       {
@@ -3198,10 +2952,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0124.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0124.csv"
     },
     "annotations": [
       {
@@ -3224,10 +2976,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0125.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0125.csv"
     },
     "annotations": [
       {
@@ -3250,10 +3000,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0126.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0126.csv"
     },
     "annotations": [
       {
@@ -3276,10 +3024,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0127.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0127.csv"
     },
     "annotations": [
       {
@@ -3302,10 +3048,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0128.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0128.csv"
     },
     "annotations": [
       {
@@ -3328,10 +3072,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0129.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0129.csv"
     },
     "annotations": [
       {
@@ -3354,10 +3096,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0130.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0130.csv"
     },
     "annotations": [
       {
@@ -3380,10 +3120,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0131.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0131.csv"
     },
     "annotations": [
       {
@@ -3406,10 +3144,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0132.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0132.csv"
     },
     "annotations": [
       {
@@ -3432,10 +3168,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0133.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0133.csv"
     },
     "annotations": [
       {
@@ -3458,10 +3192,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0134.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0134.csv"
     },
     "annotations": [
       {
@@ -3484,10 +3216,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0135.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0135.csv"
     },
     "annotations": [
       {
@@ -3510,10 +3240,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0136.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0136.csv"
     },
     "annotations": [
       {
@@ -3536,10 +3264,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0137.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0137.csv"
     },
     "annotations": [
       {
@@ -3562,10 +3288,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0138.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0138.csv"
     },
     "annotations": [
       {
@@ -3588,10 +3312,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0139.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0139.csv"
     },
     "annotations": [
       {
@@ -3614,10 +3336,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0140.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0140.csv"
     },
     "annotations": [
       {
@@ -3640,10 +3360,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0141.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0141.csv"
     },
     "annotations": [
       {
@@ -3666,10 +3384,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0142.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0142.csv"
     },
     "annotations": [
       {
@@ -3692,10 +3408,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0143.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0143.csv"
     },
     "annotations": [
       {
@@ -3718,10 +3432,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0144.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0144.csv"
     },
     "annotations": [
       {
@@ -3744,10 +3456,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0145.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0145.csv"
     },
     "annotations": [
       {
@@ -3770,10 +3480,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0146.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0146.csv"
     },
     "annotations": [
       {
@@ -3796,10 +3504,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0147.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0147.csv"
     },
     "annotations": [
       {
@@ -3822,10 +3528,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0148.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0148.csv"
     },
     "annotations": [
       {
@@ -3848,10 +3552,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0149.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0149.csv"
     },
     "annotations": [
       {
@@ -3874,10 +3576,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0150.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0150.csv"
     },
     "annotations": [
       {
@@ -3900,10 +3600,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0151.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0151.csv"
     },
     "annotations": [
       {
@@ -3926,10 +3624,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0152.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0152.csv"
     },
     "annotations": [
       {
@@ -3952,10 +3648,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0153.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0153.csv"
     },
     "annotations": [
       {
@@ -3978,10 +3672,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0154.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0154.csv"
     },
     "annotations": [
       {
@@ -4004,10 +3696,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0155.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0155.csv"
     },
     "annotations": [
       {
@@ -4030,10 +3720,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0156.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0156.csv"
     },
     "annotations": [
       {
@@ -4056,10 +3744,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0157.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0157.csv"
     },
     "annotations": [
       {
@@ -4082,10 +3768,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0158.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0158.csv"
     },
     "annotations": [
       {
@@ -4108,10 +3792,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0159.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0159.csv"
     },
     "annotations": [
       {
@@ -4134,10 +3816,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0160.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0160.csv"
     },
     "annotations": [
       {
@@ -4160,10 +3840,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0161.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0161.csv"
     },
     "annotations": [
       {
@@ -4186,10 +3864,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0162.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0162.csv"
     },
     "annotations": [
       {
@@ -4212,10 +3888,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0163.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0163.csv"
     },
     "annotations": [
       {
@@ -4238,10 +3912,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0164.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0164.csv"
     },
     "annotations": [
       {
@@ -4264,10 +3936,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0165.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0165.csv"
     },
     "annotations": [
       {
@@ -4290,10 +3960,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0166.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0166.csv"
     },
     "annotations": [
       {
@@ -4316,10 +3984,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0167.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0167.csv"
     },
     "annotations": [
       {
@@ -4342,10 +4008,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0168.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0168.csv"
     },
     "annotations": [
       {
@@ -4368,10 +4032,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0169.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0169.csv"
     },
     "annotations": [
       {
@@ -4394,10 +4056,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0170.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0170.csv"
     },
     "annotations": [
       {
@@ -4420,10 +4080,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0171.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0171.csv"
     },
     "annotations": [
       {
@@ -4446,10 +4104,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0172.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0172.csv"
     },
     "annotations": [
       {
@@ -4472,10 +4128,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0173.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0173.csv"
     },
     "annotations": [
       {
@@ -4498,10 +4152,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0174.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0174.csv"
     },
     "annotations": [
       {
@@ -4524,10 +4176,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0175.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0175.csv"
     },
     "annotations": [
       {
@@ -4550,10 +4200,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0176.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0176.csv"
     },
     "annotations": [
       {
@@ -4576,10 +4224,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0177.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0177.csv"
     },
     "annotations": [
       {
@@ -4602,10 +4248,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0178.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0178.csv"
     },
     "annotations": [
       {
@@ -4628,10 +4272,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0179.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0179.csv"
     },
     "annotations": [
       {
@@ -4654,10 +4296,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0180.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0180.csv"
     },
     "annotations": [
       {
@@ -4680,10 +4320,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0181.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0181.csv"
     },
     "annotations": [
       {
@@ -4706,10 +4344,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0182.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0182.csv"
     },
     "annotations": [
       {
@@ -4732,10 +4368,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0183.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0183.csv"
     },
     "annotations": [
       {
@@ -4758,10 +4392,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0184.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0184.csv"
     },
     "annotations": [
       {
@@ -4784,10 +4416,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0185.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0185.csv"
     },
     "annotations": [
       {
@@ -4810,10 +4440,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0186.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0186.csv"
     },
     "annotations": [
       {
@@ -4836,10 +4464,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0187.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0187.csv"
     },
     "annotations": [
       {
@@ -4862,10 +4488,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0188.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0188.csv"
     },
     "annotations": [
       {
@@ -4888,10 +4512,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0189.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0189.csv"
     },
     "annotations": [
       {
@@ -4914,10 +4536,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0190.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0190.csv"
     },
     "annotations": [
       {
@@ -4940,10 +4560,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0191.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0191.csv"
     },
     "annotations": [
       {
@@ -4966,10 +4584,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0192.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0192.csv"
     },
     "annotations": [
       {
@@ -4992,10 +4608,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0193.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0193.csv"
     },
     "annotations": [
       {
@@ -5018,10 +4632,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0194.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0194.csv"
     },
     "annotations": [
       {
@@ -5044,10 +4656,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0195.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0195.csv"
     },
     "annotations": [
       {
@@ -5070,10 +4680,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0196.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0196.csv"
     },
     "annotations": [
       {
@@ -5096,10 +4704,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0197.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0197.csv"
     },
     "annotations": [
       {
@@ -5122,10 +4728,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0198.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0198.csv"
     },
     "annotations": [
       {
@@ -5148,10 +4752,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0199.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0199.csv"
     },
     "annotations": [
       {
@@ -5174,10 +4776,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0200.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0200.csv"
     },
     "annotations": [
       {
@@ -5200,10 +4800,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0201.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0201.csv"
     },
     "annotations": [
       {
@@ -5226,10 +4824,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0202.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0202.csv"
     },
     "annotations": [
       {
@@ -5252,10 +4848,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0203.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0203.csv"
     },
     "annotations": [
       {
@@ -5278,10 +4872,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0204.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0204.csv"
     },
     "annotations": [
       {
@@ -5304,10 +4896,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0205.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0205.csv"
     },
     "annotations": [
       {
@@ -5330,10 +4920,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0206.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0206.csv"
     },
     "annotations": [
       {
@@ -5356,10 +4944,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0207.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0207.csv"
     },
     "annotations": [
       {
@@ -5382,10 +4968,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0208.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0208.csv"
     },
     "annotations": [
       {
@@ -5408,10 +4992,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0209.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0209.csv"
     },
     "annotations": [
       {
@@ -5434,10 +5016,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0210.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0210.csv"
     },
     "annotations": [
       {
@@ -5460,10 +5040,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0211.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0211.csv"
     },
     "annotations": [
       {
@@ -5486,10 +5064,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0212.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0212.csv"
     },
     "annotations": [
       {
@@ -5512,10 +5088,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0213.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0213.csv"
     },
     "annotations": [
       {
@@ -5538,10 +5112,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0214.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0214.csv"
     },
     "annotations": [
       {
@@ -5564,10 +5136,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0215.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0215.csv"
     },
     "annotations": [
       {
@@ -5590,10 +5160,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0216.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0216.csv"
     },
     "annotations": [
       {
@@ -5616,10 +5184,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0217.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0217.csv"
     },
     "annotations": [
       {
@@ -5642,10 +5208,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0218.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0218.csv"
     },
     "annotations": [
       {
@@ -5668,10 +5232,8 @@
     ]
   },
   {
-    "data": {
-      "ts": {
-        "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0219.csv"
-      }
+    "ts": {
+      "url": "https://kinglotdke.github.io/horse-imu-chunks/horse01_chunk0219.csv"
     },
     "annotations": [
       {
