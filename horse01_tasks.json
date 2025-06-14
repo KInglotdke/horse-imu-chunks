@@ -11,14 +11,15 @@
         "result": [
           {
             "id": "r1",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 43504,
               "end": 48468,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "tt"
               ]
             }
@@ -39,14 +40,15 @@
         "result": [
           {
             "id": "r2",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 48468,
               "end": 49989,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fw"
               ]
             }
@@ -67,14 +69,15 @@
         "result": [
           {
             "id": "r3",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 49989,
               "end": 54989,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -95,14 +98,15 @@
         "result": [
           {
             "id": "r4",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 54989,
               "end": 59989,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -123,14 +127,15 @@
         "result": [
           {
             "id": "r5",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 59989,
               "end": 64989,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -151,14 +156,15 @@
         "result": [
           {
             "id": "r6",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 64989,
               "end": 69989,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -179,14 +185,15 @@
         "result": [
           {
             "id": "r7",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 69989,
               "end": 74989,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -207,14 +214,15 @@
         "result": [
           {
             "id": "r8",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 74989,
               "end": 76211,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -235,14 +243,15 @@
         "result": [
           {
             "id": "r9",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 76211,
               "end": 81211,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wr"
               ]
             }
@@ -263,14 +272,15 @@
         "result": [
           {
             "id": "r10",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 81211,
               "end": 86091,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wr"
               ]
             }
@@ -291,14 +301,15 @@
         "result": [
           {
             "id": "r11",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 86091,
               "end": 91091,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "tr"
               ]
             }
@@ -319,14 +330,15 @@
         "result": [
           {
             "id": "r12",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 91091,
               "end": 96091,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "tr"
               ]
             }
@@ -347,14 +359,15 @@
         "result": [
           {
             "id": "r13",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 96091,
               "end": 99870,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "tr"
               ]
             }
@@ -375,14 +388,15 @@
         "result": [
           {
             "id": "r14",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 99870,
               "end": 104870,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "tl"
               ]
             }
@@ -403,14 +417,15 @@
         "result": [
           {
             "id": "r15",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 104870,
               "end": 109870,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "tl"
               ]
             }
@@ -431,14 +446,15 @@
         "result": [
           {
             "id": "r16",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 109870,
               "end": 112222,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "tl"
               ]
             }
@@ -459,14 +475,15 @@
         "result": [
           {
             "id": "r17",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 112222,
               "end": 117222,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cl"
               ]
             }
@@ -487,14 +504,15 @@
         "result": [
           {
             "id": "r18",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 117222,
               "end": 122222,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cl"
               ]
             }
@@ -515,14 +533,15 @@
         "result": [
           {
             "id": "r19",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 122222,
               "end": 126071,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cl"
               ]
             }
@@ -543,14 +562,15 @@
         "result": [
           {
             "id": "r20",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 126071,
               "end": 126105,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -571,14 +591,15 @@
         "result": [
           {
             "id": "r21",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 126105,
               "end": 131105,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cr"
               ]
             }
@@ -599,14 +620,15 @@
         "result": [
           {
             "id": "r22",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 131105,
               "end": 136105,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cr"
               ]
             }
@@ -627,14 +649,15 @@
         "result": [
           {
             "id": "r23",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 136105,
               "end": 138768,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cr"
               ]
             }
@@ -655,14 +678,15 @@
         "result": [
           {
             "id": "r24",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 138768,
               "end": 143768,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wr"
               ]
             }
@@ -683,14 +707,15 @@
         "result": [
           {
             "id": "r25",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 143768,
               "end": 148628,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wr"
               ]
             }
@@ -711,14 +736,15 @@
         "result": [
           {
             "id": "r26",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 148628,
               "end": 153628,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -739,14 +765,15 @@
         "result": [
           {
             "id": "r27",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 153628,
               "end": 158628,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -767,14 +794,15 @@
         "result": [
           {
             "id": "r28",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 158628,
               "end": 163628,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -795,14 +823,15 @@
         "result": [
           {
             "id": "r29",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 163628,
               "end": 165656,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -823,14 +852,15 @@
         "result": [
           {
             "id": "r30",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 165656,
               "end": 170656,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wr"
               ]
             }
@@ -851,14 +881,15 @@
         "result": [
           {
             "id": "r31",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 170656,
               "end": 171127,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wr"
               ]
             }
@@ -879,14 +910,15 @@
         "result": [
           {
             "id": "r32",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 171127,
               "end": 172827,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "tr"
               ]
             }
@@ -907,14 +939,15 @@
         "result": [
           {
             "id": "r33",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 172827,
               "end": 173615,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "sir"
               ]
             }
@@ -935,14 +968,15 @@
         "result": [
           {
             "id": "r34",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 173615,
               "end": 174931,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ctr"
               ]
             }
@@ -963,14 +997,15 @@
         "result": [
           {
             "id": "r35",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 174931,
               "end": 175157,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ext"
               ]
             }
@@ -991,14 +1026,15 @@
         "result": [
           {
             "id": "r36",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 175157,
               "end": 175250,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ctr"
               ]
             }
@@ -1019,14 +1055,15 @@
         "result": [
           {
             "id": "r37",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 175250,
               "end": 176152,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "sir"
               ]
             }
@@ -1047,14 +1084,15 @@
         "result": [
           {
             "id": "r38",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 176152,
               "end": 178166,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ctr"
               ]
             }
@@ -1075,14 +1113,15 @@
         "result": [
           {
             "id": "r39",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 178166,
               "end": 178816,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "pi"
               ]
             }
@@ -1103,14 +1142,15 @@
         "result": [
           {
             "id": "r40",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 178816,
               "end": 179652,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "pa"
               ]
             }
@@ -1131,14 +1171,15 @@
         "result": [
           {
             "id": "r41",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 179652,
               "end": 180186,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ctl"
               ]
             }
@@ -1159,14 +1200,15 @@
         "result": [
           {
             "id": "r42",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 180186,
               "end": 181446,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "pa"
               ]
             }
@@ -1187,14 +1229,15 @@
         "result": [
           {
             "id": "r43",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 181446,
               "end": 182192,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "pi"
               ]
             }
@@ -1215,14 +1258,15 @@
         "result": [
           {
             "id": "r44",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 182192,
               "end": 182486,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ctl"
               ]
             }
@@ -1243,14 +1287,15 @@
         "result": [
           {
             "id": "r45",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 182486,
               "end": 183535,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "pa"
               ]
             }
@@ -1271,14 +1316,15 @@
         "result": [
           {
             "id": "r46",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 183535,
               "end": 184099,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "pi"
               ]
             }
@@ -1299,14 +1345,15 @@
         "result": [
           {
             "id": "r47",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 184099,
               "end": 184817,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "pa"
               ]
             }
@@ -1327,14 +1374,15 @@
         "result": [
           {
             "id": "r48",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 184817,
               "end": 185953,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cwl"
               ]
             }
@@ -1355,14 +1403,15 @@
         "result": [
           {
             "id": "r49",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 185953,
               "end": 187939,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "exw"
               ]
             }
@@ -1383,14 +1432,15 @@
         "result": [
           {
             "id": "r50",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 187939,
               "end": 188516,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cwr"
               ]
             }
@@ -1411,14 +1461,15 @@
         "result": [
           {
             "id": "r51",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 188516,
               "end": 191541,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -1439,14 +1490,15 @@
         "result": [
           {
             "id": "r52",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 191541,
               "end": 191577,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -1467,14 +1519,15 @@
         "result": [
           {
             "id": "r53",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 191577,
               "end": 191734,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -1495,14 +1548,15 @@
         "result": [
           {
             "id": "r54",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 191734,
               "end": 191770,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -1523,14 +1577,15 @@
         "result": [
           {
             "id": "r55",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 191770,
               "end": 191929,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -1551,14 +1606,15 @@
         "result": [
           {
             "id": "r56",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 191929,
               "end": 191958,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -1579,14 +1635,15 @@
         "result": [
           {
             "id": "r57",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 191958,
               "end": 192117,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -1607,14 +1664,15 @@
         "result": [
           {
             "id": "r58",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 192117,
               "end": 192149,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -1635,14 +1693,15 @@
         "result": [
           {
             "id": "r59",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 192149,
               "end": 193378,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -1663,14 +1722,15 @@
         "result": [
           {
             "id": "r60",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 193378,
               "end": 193410,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -1691,14 +1751,15 @@
         "result": [
           {
             "id": "r61",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 193410,
               "end": 193495,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -1719,14 +1780,15 @@
         "result": [
           {
             "id": "r62",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 193495,
               "end": 193530,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -1747,14 +1809,15 @@
         "result": [
           {
             "id": "r63",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 193530,
               "end": 193694,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -1775,14 +1838,15 @@
         "result": [
           {
             "id": "r64",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 193694,
               "end": 193719,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -1803,14 +1867,15 @@
         "result": [
           {
             "id": "r65",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 193719,
               "end": 194059,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -1831,14 +1896,15 @@
         "result": [
           {
             "id": "r66",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 194059,
               "end": 194086,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -1859,14 +1925,15 @@
         "result": [
           {
             "id": "r67",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 194086,
               "end": 194195,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -1887,14 +1954,15 @@
         "result": [
           {
             "id": "r68",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 194195,
               "end": 194227,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -1915,14 +1983,15 @@
         "result": [
           {
             "id": "r69",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 194227,
               "end": 195673,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -1943,14 +2012,15 @@
         "result": [
           {
             "id": "r70",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 195673,
               "end": 195698,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -1971,14 +2041,15 @@
         "result": [
           {
             "id": "r71",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 195698,
               "end": 195786,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -1999,14 +2070,15 @@
         "result": [
           {
             "id": "r72",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 195786,
               "end": 195817,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2027,14 +2099,15 @@
         "result": [
           {
             "id": "r73",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 195817,
               "end": 195985,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -2055,14 +2128,15 @@
         "result": [
           {
             "id": "r74",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 195985,
               "end": 196017,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2083,14 +2157,15 @@
         "result": [
           {
             "id": "r75",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 196017,
               "end": 196105,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -2111,14 +2186,15 @@
         "result": [
           {
             "id": "r76",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 196105,
               "end": 196129,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2139,14 +2215,15 @@
         "result": [
           {
             "id": "r77",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 196129,
               "end": 196165,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -2167,14 +2244,15 @@
         "result": [
           {
             "id": "r78",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 196165,
               "end": 196193,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2195,14 +2273,15 @@
         "result": [
           {
             "id": "r79",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 196193,
               "end": 196225,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -2223,14 +2302,15 @@
         "result": [
           {
             "id": "r80",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 196225,
               "end": 196246,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2251,14 +2331,15 @@
         "result": [
           {
             "id": "r81",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 196246,
               "end": 196285,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -2279,14 +2360,15 @@
         "result": [
           {
             "id": "r82",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 196285,
               "end": 196310,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2307,14 +2389,15 @@
         "result": [
           {
             "id": "r83",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 196310,
               "end": 197572,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -2335,14 +2418,15 @@
         "result": [
           {
             "id": "r84",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 197572,
               "end": 197596,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2363,14 +2447,15 @@
         "result": [
           {
             "id": "r85",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 197596,
               "end": 197752,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -2391,14 +2476,15 @@
         "result": [
           {
             "id": "r86",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 197752,
               "end": 197780,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2419,14 +2505,15 @@
         "result": [
           {
             "id": "r87",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 197780,
               "end": 197872,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -2447,14 +2534,15 @@
         "result": [
           {
             "id": "r88",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 197872,
               "end": 197912,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2475,14 +2563,15 @@
         "result": [
           {
             "id": "r89",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 197912,
               "end": 198009,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -2503,14 +2592,15 @@
         "result": [
           {
             "id": "r90",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 198009,
               "end": 198040,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2531,14 +2621,15 @@
         "result": [
           {
             "id": "r91",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 198040,
               "end": 198075,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -2559,14 +2650,15 @@
         "result": [
           {
             "id": "r92",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 198075,
               "end": 198092,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2587,14 +2679,15 @@
         "result": [
           {
             "id": "r93",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 198092,
               "end": 198136,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -2615,14 +2708,15 @@
         "result": [
           {
             "id": "r94",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 198136,
               "end": 198160,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2643,14 +2737,15 @@
         "result": [
           {
             "id": "r95",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 198160,
               "end": 198264,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -2671,14 +2766,15 @@
         "result": [
           {
             "id": "r96",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 198264,
               "end": 198292,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2699,14 +2795,15 @@
         "result": [
           {
             "id": "r97",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 198292,
               "end": 198383,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -2727,14 +2824,15 @@
         "result": [
           {
             "id": "r98",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 198383,
               "end": 198419,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2755,14 +2853,15 @@
         "result": [
           {
             "id": "r99",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 198419,
               "end": 199999,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -2783,14 +2882,15 @@
         "result": [
           {
             "id": "r100",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 199999,
               "end": 200023,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2811,14 +2911,15 @@
         "result": [
           {
             "id": "r101",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 200023,
               "end": 200059,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -2839,14 +2940,15 @@
         "result": [
           {
             "id": "r102",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 200059,
               "end": 200091,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2867,14 +2969,15 @@
         "result": [
           {
             "id": "r103",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 200091,
               "end": 200119,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -2895,14 +2998,15 @@
         "result": [
           {
             "id": "r104",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 200119,
               "end": 200154,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2923,14 +3027,15 @@
         "result": [
           {
             "id": "r105",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 200154,
               "end": 202186,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -2951,14 +3056,15 @@
         "result": [
           {
             "id": "r106",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 202186,
               "end": 202213,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -2979,14 +3085,15 @@
         "result": [
           {
             "id": "r107",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 202213,
               "end": 202465,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -3007,14 +3114,15 @@
         "result": [
           {
             "id": "r108",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 202465,
               "end": 202497,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -3035,14 +3143,15 @@
         "result": [
           {
             "id": "r109",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 202497,
               "end": 204444,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -3063,14 +3172,15 @@
         "result": [
           {
             "id": "r110",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 204444,
               "end": 204493,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -3091,14 +3201,15 @@
         "result": [
           {
             "id": "r111",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 204493,
               "end": 204572,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -3119,14 +3230,15 @@
         "result": [
           {
             "id": "r112",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 204572,
               "end": 204612,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -3147,14 +3259,15 @@
         "result": [
           {
             "id": "r113",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 204612,
               "end": 204976,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -3175,14 +3288,15 @@
         "result": [
           {
             "id": "r114",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 204976,
               "end": 205004,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -3203,14 +3317,15 @@
         "result": [
           {
             "id": "r115",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 205004,
               "end": 205109,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -3231,14 +3346,15 @@
         "result": [
           {
             "id": "r116",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 205109,
               "end": 205136,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -3259,14 +3375,15 @@
         "result": [
           {
             "id": "r117",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 205136,
               "end": 206323,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -3287,14 +3404,15 @@
         "result": [
           {
             "id": "r118",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 206323,
               "end": 206359,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -3315,14 +3433,15 @@
         "result": [
           {
             "id": "r119",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 206359,
               "end": 206467,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -3343,14 +3462,15 @@
         "result": [
           {
             "id": "r120",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 206467,
               "end": 206495,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -3371,14 +3491,15 @@
         "result": [
           {
             "id": "r121",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 206495,
               "end": 208598,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -3399,14 +3520,15 @@
         "result": [
           {
             "id": "r122",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 208598,
               "end": 208633,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -3427,14 +3549,15 @@
         "result": [
           {
             "id": "r123",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 208633,
               "end": 208673,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -3455,14 +3578,15 @@
         "result": [
           {
             "id": "r124",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 208673,
               "end": 208705,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -3483,14 +3607,15 @@
         "result": [
           {
             "id": "r125",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 208705,
               "end": 209732,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -3511,14 +3636,15 @@
         "result": [
           {
             "id": "r126",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 209732,
               "end": 212789,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ctr"
               ]
             }
@@ -3539,14 +3665,15 @@
         "result": [
           {
             "id": "r127",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 212789,
               "end": 213602,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "pa"
               ]
             }
@@ -3567,14 +3694,15 @@
         "result": [
           {
             "id": "r128",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 213602,
               "end": 214742,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ctr"
               ]
             }
@@ -3595,14 +3723,15 @@
         "result": [
           {
             "id": "r129",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 214742,
               "end": 215552,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "hptr"
               ]
             }
@@ -3623,14 +3752,15 @@
         "result": [
           {
             "id": "r130",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 215552,
               "end": 215809,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ext"
               ]
             }
@@ -3651,14 +3781,15 @@
         "result": [
           {
             "id": "r131",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 215809,
               "end": 216038,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ctl"
               ]
             }
@@ -3679,14 +3810,15 @@
         "result": [
           {
             "id": "r132",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 216038,
               "end": 221038,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cwl"
               ]
             }
@@ -3707,14 +3839,15 @@
         "result": [
           {
             "id": "r133",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 221038,
               "end": 226038,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cwl"
               ]
             }
@@ -3735,14 +3868,15 @@
         "result": [
           {
             "id": "r134",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 226038,
               "end": 229366,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cwl"
               ]
             }
@@ -3763,14 +3897,15 @@
         "result": [
           {
             "id": "r135",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 229366,
               "end": 231082,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cwr"
               ]
             }
@@ -3791,14 +3926,15 @@
         "result": [
           {
             "id": "r136",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 231082,
               "end": 234019,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -3819,14 +3955,15 @@
         "result": [
           {
             "id": "r137",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 234019,
               "end": 234734,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "h"
               ]
             }
@@ -3847,14 +3984,15 @@
         "result": [
           {
             "id": "r138",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 234734,
               "end": 235953,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ctr"
               ]
             }
@@ -3875,14 +4013,15 @@
         "result": [
           {
             "id": "r139",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 235953,
               "end": 237032,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ext"
               ]
             }
@@ -3903,14 +4042,15 @@
         "result": [
           {
             "id": "r140",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 237032,
               "end": 238192,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ctl"
               ]
             }
@@ -3931,14 +4071,15 @@
         "result": [
           {
             "id": "r141",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 238192,
               "end": 238920,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "sil"
               ]
             }
@@ -3959,14 +4100,15 @@
         "result": [
           {
             "id": "r142",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 238920,
               "end": 239960,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "v8l"
               ]
             }
@@ -3987,14 +4129,15 @@
         "result": [
           {
             "id": "r143",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 239960,
               "end": 240870,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "hptl"
               ]
             }
@@ -4015,14 +4158,15 @@
         "result": [
           {
             "id": "r144",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 240870,
               "end": 241459,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ctl"
               ]
             }
@@ -4043,14 +4187,15 @@
         "result": [
           {
             "id": "r145",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 241459,
               "end": 242379,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ext"
               ]
             }
@@ -4071,14 +4216,15 @@
         "result": [
           {
             "id": "r146",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 242379,
               "end": 243538,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ctr"
               ]
             }
@@ -4099,14 +4245,15 @@
         "result": [
           {
             "id": "r147",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 243538,
               "end": 244328,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "sir"
               ]
             }
@@ -4127,14 +4274,15 @@
         "result": [
           {
             "id": "r148",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 244328,
               "end": 245457,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "v8r"
               ]
             }
@@ -4155,14 +4303,15 @@
         "result": [
           {
             "id": "r149",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 245457,
               "end": 245956,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "hptr"
               ]
             }
@@ -4183,14 +4332,15 @@
         "result": [
           {
             "id": "r150",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 245956,
               "end": 246185,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ctl"
               ]
             }
@@ -4211,14 +4361,15 @@
         "result": [
           {
             "id": "r151",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 246185,
               "end": 248072,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cwl"
               ]
             }
@@ -4239,14 +4390,15 @@
         "result": [
           {
             "id": "r152",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 248072,
               "end": 248714,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "kwl"
               ]
             }
@@ -4267,14 +4419,15 @@
         "result": [
           {
             "id": "r153",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 248714,
               "end": 249243,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cw"
               ]
             }
@@ -4295,14 +4448,15 @@
         "result": [
           {
             "id": "r154",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 249243,
               "end": 249488,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "kwr"
               ]
             }
@@ -4323,14 +4477,15 @@
         "result": [
           {
             "id": "r155",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 249488,
               "end": 250422,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cw"
               ]
             }
@@ -4351,14 +4506,15 @@
         "result": [
           {
             "id": "r156",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 250422,
               "end": 253063,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "exw"
               ]
             }
@@ -4379,14 +4535,15 @@
         "result": [
           {
             "id": "r157",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 253063,
               "end": 254120,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "cwl"
               ]
             }
@@ -4407,14 +4564,15 @@
         "result": [
           {
             "id": "r158",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 254120,
               "end": 254887,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -4435,14 +4593,15 @@
         "result": [
           {
             "id": "r159",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 254887,
               "end": 255770,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "exc"
               ]
             }
@@ -4463,14 +4622,15 @@
         "result": [
           {
             "id": "r160",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 255770,
               "end": 255806,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -4491,14 +4651,15 @@
         "result": [
           {
             "id": "r161",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 255806,
               "end": 256879,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -4519,14 +4680,15 @@
         "result": [
           {
             "id": "r162",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 256879,
               "end": 257644,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "exc"
               ]
             }
@@ -4547,14 +4709,15 @@
         "result": [
           {
             "id": "r163",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 257644,
               "end": 257693,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -4575,14 +4738,15 @@
         "result": [
           {
             "id": "r164",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 257693,
               "end": 258663,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -4603,14 +4767,15 @@
         "result": [
           {
             "id": "r165",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 258663,
               "end": 259304,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "hpcl"
               ]
             }
@@ -4631,14 +4796,15 @@
         "result": [
           {
             "id": "r166",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 259304,
               "end": 259420,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -4659,14 +4825,15 @@
         "result": [
           {
             "id": "r167",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 259420,
               "end": 259650,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -4687,14 +4854,15 @@
         "result": [
           {
             "id": "r168",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 259650,
               "end": 260156,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "hpcr"
               ]
             }
@@ -4715,14 +4883,15 @@
         "result": [
           {
             "id": "r169",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 260156,
               "end": 260183,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -4743,14 +4912,15 @@
         "result": [
           {
             "id": "r170",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 260183,
               "end": 261646,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -4771,14 +4941,15 @@
         "result": [
           {
             "id": "r171",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 261646,
               "end": 261973,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "pirl"
               ]
             }
@@ -4799,14 +4970,15 @@
         "result": [
           {
             "id": "r172",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 261973,
               "end": 262726,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -4827,14 +4999,15 @@
         "result": [
           {
             "id": "r173",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 262726,
               "end": 262750,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -4855,14 +5028,15 @@
         "result": [
           {
             "id": "r174",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 262750,
               "end": 263681,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -4883,14 +5057,15 @@
         "result": [
           {
             "id": "r175",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 263681,
               "end": 264051,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "pirr"
               ]
             }
@@ -4911,14 +5086,15 @@
         "result": [
           {
             "id": "r176",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 264051,
               "end": 264637,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -4939,14 +5115,15 @@
         "result": [
           {
             "id": "r177",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 264637,
               "end": 264662,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -4967,14 +5144,15 @@
         "result": [
           {
             "id": "r178",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 264662,
               "end": 265292,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -4995,14 +5173,15 @@
         "result": [
           {
             "id": "r179",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 265292,
               "end": 265328,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -5023,14 +5202,15 @@
         "result": [
           {
             "id": "r180",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 265328,
               "end": 265561,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -5051,14 +5231,15 @@
         "result": [
           {
             "id": "r181",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 265561,
               "end": 265592,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -5079,14 +5260,15 @@
         "result": [
           {
             "id": "r182",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 265592,
               "end": 265824,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -5107,14 +5289,15 @@
         "result": [
           {
             "id": "r183",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 265824,
               "end": 265852,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -5135,14 +5318,15 @@
         "result": [
           {
             "id": "r184",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 265852,
               "end": 266088,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -5163,14 +5347,15 @@
         "result": [
           {
             "id": "r185",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 266088,
               "end": 266116,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -5191,14 +5376,15 @@
         "result": [
           {
             "id": "r186",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 266116,
               "end": 266397,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -5219,14 +5405,15 @@
         "result": [
           {
             "id": "r187",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 266397,
               "end": 266420,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -5247,14 +5434,15 @@
         "result": [
           {
             "id": "r188",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 266420,
               "end": 267555,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -5275,14 +5463,15 @@
         "result": [
           {
             "id": "r189",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 267555,
               "end": 267591,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -5303,14 +5492,15 @@
         "result": [
           {
             "id": "r190",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 267591,
               "end": 267939,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -5331,14 +5521,15 @@
         "result": [
           {
             "id": "r191",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 267939,
               "end": 267975,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -5359,14 +5550,15 @@
         "result": [
           {
             "id": "r192",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 267975,
               "end": 268143,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -5387,14 +5579,15 @@
         "result": [
           {
             "id": "r193",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 268143,
               "end": 268171,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -5415,14 +5608,15 @@
         "result": [
           {
             "id": "r194",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 268171,
               "end": 268327,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -5443,14 +5637,15 @@
         "result": [
           {
             "id": "r195",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 268327,
               "end": 268363,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -5471,14 +5666,15 @@
         "result": [
           {
             "id": "r196",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 268363,
               "end": 268782,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -5499,14 +5695,15 @@
         "result": [
           {
             "id": "r197",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 268782,
               "end": 269554,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -5527,14 +5724,15 @@
         "result": [
           {
             "id": "r198",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 269554,
               "end": 270322,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "exc"
               ]
             }
@@ -5555,14 +5753,15 @@
         "result": [
           {
             "id": "r199",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 270322,
               "end": 270508,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccl"
               ]
             }
@@ -5583,14 +5782,15 @@
         "result": [
           {
             "id": "r200",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 270508,
               "end": 270559,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "fc"
               ]
             }
@@ -5611,14 +5811,15 @@
         "result": [
           {
             "id": "r201",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 270559,
               "end": 271777,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "ccr"
               ]
             }
@@ -5639,14 +5840,15 @@
         "result": [
           {
             "id": "r202",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 271777,
               "end": 272315,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "h"
               ]
             }
@@ -5667,14 +5869,15 @@
         "result": [
           {
             "id": "r203",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 272315,
               "end": 274028,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "w"
               ]
             }
@@ -5695,14 +5898,15 @@
         "result": [
           {
             "id": "r204",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 274028,
               "end": 279028,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wr"
               ]
             }
@@ -5723,14 +5927,15 @@
         "result": [
           {
             "id": "r205",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 279028,
               "end": 283387,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wr"
               ]
             }
@@ -5751,14 +5956,15 @@
         "result": [
           {
             "id": "r206",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 283387,
               "end": 284023,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "tr"
               ]
             }
@@ -5779,14 +5985,15 @@
         "result": [
           {
             "id": "r207",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 284023,
               "end": 284358,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wr"
               ]
             }
@@ -5807,14 +6014,15 @@
         "result": [
           {
             "id": "r208",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 284358,
               "end": 289358,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "tr"
               ]
             }
@@ -5835,14 +6043,15 @@
         "result": [
           {
             "id": "r209",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 289358,
               "end": 289635,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "tr"
               ]
             }
@@ -5863,14 +6072,15 @@
         "result": [
           {
             "id": "r210",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 289635,
               "end": 291646,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "tl"
               ]
             }
@@ -5891,14 +6101,15 @@
         "result": [
           {
             "id": "r211",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 291646,
               "end": 296646,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -5919,14 +6130,15 @@
         "result": [
           {
             "id": "r212",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 296646,
               "end": 301646,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -5947,14 +6159,15 @@
         "result": [
           {
             "id": "r213",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 301646,
               "end": 306646,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -5975,14 +6188,15 @@
         "result": [
           {
             "id": "r214",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 306646,
               "end": 310753,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "wl"
               ]
             }
@@ -6003,14 +6217,15 @@
         "result": [
           {
             "id": "r215",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 310753,
               "end": 311884,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "h"
               ]
             }
@@ -6031,14 +6246,15 @@
         "result": [
           {
             "id": "r216",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 311884,
               "end": 312491,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "w"
               ]
             }
@@ -6059,14 +6275,15 @@
         "result": [
           {
             "id": "r217",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 312491,
               "end": 312656,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "h"
               ]
             }
@@ -6087,14 +6304,15 @@
         "result": [
           {
             "id": "r218",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 312656,
               "end": 317656,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "endtest"
               ]
             }
@@ -6115,14 +6333,15 @@
         "result": [
           {
             "id": "r219",
-            "type": "labels",
+            "type": "timeserieslabels",
             "from_name": "label",
             "to_name": "ts",
             "origin": "manual",
             "value": {
               "start": 317656,
               "end": 320820,
-              "labels": [
+              "instant": false,
+              "timeserieslabels": [
                 "endtest"
               ]
             }
